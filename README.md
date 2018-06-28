@@ -13,6 +13,10 @@ Depression
 Student's life problems
 Enviroment
 Transport
+
+Security
+Social and economic inequalities
+
 Transporte público
 Atendimento longitudinal no sistema de saúde e a falta de conhecimento/alfabetização dos usuários do SUS
 Burnout
