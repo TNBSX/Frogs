@@ -11,7 +11,6 @@ Depression
 Student's life problems
 Enviroment
 Transport
-aquecimento global 
-desigualdade social 
-democracia fragil 
-depressao e ansiedade como epidemias :)
+Transporte público
+Atendimento longitudinal no sistema de saúde e a falta de conhecimento/alfabetização dos usuários do SUS
+Burnout
