@@ -7,3 +7,5 @@ Depression
 Student's life problems
 Enviroment
 Transport
+Security
+Social and economic inequalities
